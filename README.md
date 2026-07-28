@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/portrait-tetris.svg" width="380" alt="Kyle — portrait made of dots" />
+  <img src="./assets/portrait-sand.svg" width="380" alt="Kyle — portrait made of dots" />
 </p>
 
 <h1 align="center">Hey — I'm Kyle.</h1>
