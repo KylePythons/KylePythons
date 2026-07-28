@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <sub>Portrait above is ~4,500 colored dots sampled from my avatar — SVG, so it stays sharp.</sub>
+  <sub>Portrait above is thousands of uniform white dots — SVG, so it stays sharp.</sub>
 </p>
