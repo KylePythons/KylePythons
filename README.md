@@ -1,11 +1,44 @@
 <!--
   GitHub profile README — KylePythons
-  Tip: SVG dotted portrait lives in /assets and animates on load.
 -->
 
-<p align="center">
-  <img src="./assets/portrait-dots.svg" width="420" alt="Kyle — portrait made of dots" />
-</p>
+<div align="center">
+
+```
+                       .                             
+               ..::::-=+=+=-.                        
+           --::-::::......:-=:.:-:.:::::.            
+         :--::..             ..        .:::--:       
+       ...                                 .:==.     
+     ...                                      :==    
+   .-.                                         .--   
+  .-                         ..:-:.:.         ...::  
+ ::            ..          .-==++-++=-:.       .. -  
+ :.           ....... ....:+**#*=*#**+=-.     ... .. 
+ :        ...  ...:.....:-*###**#####*+=-........  : 
+ :... .      ....::....-=####**######*++=-:.... ...: 
+  : .  . .::  ::::..  ::=*###%%%%%%%%%#*+=::... ...: 
+  :.   ..-**=-=++*#*====++**%%%@@%%%#+===:....:...:  
+   :   ..=*####%%%#**+**#%%%%%%%%%%%%###**=:..:  :.  
+  :**+=:.+#####%#*=++:-+#+*%##%%%#%%#+++*+++-= .::   
+  =%#%#=-#######%%%%@%%%##%#*####*%##===#==##%::     
+  .##%#*+####%%%%%%%%%%%%%#######*#%%@%%%%###%=      
+   -%#***##%%%%%%%%%%%%%%%#**#######%%%%%%%%%%.      
+    -%#**###%%%%%%%%@@@%@#*###%%%%##%%%%%%%%@*       
+     -#%####%%%%%%%@@@%%%###*#%%%*#%%%%%%%%%%:       
+       -+####%%%%%%@@%%@%%###%######%%%%%%%@+        
+        -####%%%%%%%%%%##############%%%%%@%         
+         +#*##%%%%%%%%%****+++++++***%%%%@%:         
+         -#**##%%%%%%%%%%########*##%%%%@#:          
+         :******#%%%%%%%%%%%%#%%%%%%%%%%+            
+         -*****++**##%%%@%@@@%%%%%%%%#+.             
+        .***#####******##%%%%%%%%%##-                
+       :***############***********#+                 
+     .. -*####%%%%%%%%%%%%%%%#####%:                 
+  ....   .-*##%%%%%%%%%%%%%%%%####*                  
+```
+
+</div>
 
 <h1 align="center">Hey — I'm Kyle.</h1>
 
@@ -25,7 +58,7 @@
 
 - Creating bugs since **2019** (and occasionally fixing them)
 - Currently deep in **AI systems** and backend architecture
-- Fun facts: chess, drawing, and turning faces into dots
+- Fun facts: chess, drawing, and turning faces into characters
 
 ---
 
@@ -38,10 +71,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLMs-111111?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-</p>
-
----
-
-<p align="center">
-  <sub>Portrait above is thousands of uniform white dots — SVG, so it stays sharp.</sub>
 </p>
